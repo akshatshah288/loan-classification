@@ -1,0 +1,14 @@
+,Missing count,Missing percent
+Loan_ID,0,0.0
+Gender,13,2.1172638436482085
+Married,3,0.4885993485342019
+Dependents,15,2.44299674267101
+Education,0,0.0
+Self_Employed,32,5.211726384364821
+ApplicantIncome,0,0.0
+CoapplicantIncome,0,0.0
+LoanAmount,22,3.5830618892508146
+Loan_Amount_Term,14,2.2801302931596092
+Credit_History,50,8.143322475570033
+Property_Area,0,0.0
+Loan_Status,0,0.0

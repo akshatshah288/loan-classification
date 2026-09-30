@@ -1,0 +1,9 @@
+{
+  "model": "Logistic Regression",
+  "selection_metric": "mean CV binary F1; Y=1",
+  "threshold": 0.5,
+  "parameters": {
+    "model__C": 0.1,
+    "model__class_weight": null
+  }
+}

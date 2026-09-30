@@ -1,0 +1,4 @@
+Model,CV F1 mean,CV F1 std,CV ROC-AUC,CV Accuracy,Best settings
+Logistic Regression,0.8714140582662843,0.027141862380964124,0.729856410546886,0.8003092145949289,"{""model__C"": 0.1, ""model__class_weight"": null}"
+Decision Tree,0.8702638317065073,0.027122459988421003,0.6877618548623108,0.7982683982683982,"{""model__class_weight"": null, ""model__max_depth"": 2, ""model__min_samples_leaf"": 10}"
+Random Forest,0.8702638317065073,0.027122459988421003,0.7379894644424934,0.7982683982683982,"{""model__class_weight"": null, ""model__max_depth"": 4, ""model__min_samples_leaf"": 2}"
